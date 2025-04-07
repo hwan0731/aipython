@@ -175,6 +175,8 @@ def main():
         print("3. 토끼")
         print("0. 종료")
         
+
+
         try:
             n = int(input("선택(0을 입력하면 종료): "))
             # 0 이 입력되면 프로그램 종료 
@@ -197,4 +199,6 @@ def main():
 
 if __name__ == "__main__":
         main()
+
+        
 
