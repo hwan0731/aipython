@@ -8,3 +8,4 @@ print(f"{s_number}단:")
 number = int(s_number)
 result = number *2 
 print(result)
+
